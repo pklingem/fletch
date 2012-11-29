@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in fletcher.gemspec
+# Specify your gem's dependencies in fletch.gemspec
 gemspec
