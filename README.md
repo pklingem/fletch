@@ -1,6 +1,6 @@
 # Fletch
 
-TODO: Write a gem description
+if only I'd known about Bower
 
 ## Installation
 
@@ -27,3 +27,6 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+=======
+fletch
+======
