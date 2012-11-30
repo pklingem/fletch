@@ -2,7 +2,7 @@ require 'erb'
 require 'fletch'
 
 class Assets < Thor
-  desc 'fetch', 'fetch assets as defined in fletch.json'
+  desc 'fetch', 'fetch assets as defined in fletch.yml (processed by erb)'
   def fetch
     fetch_files
   end
