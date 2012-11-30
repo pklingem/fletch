@@ -1,2 +1,2 @@
 require "fletch/version"
-require 'fletch/file'
+require 'fletch/asset'
